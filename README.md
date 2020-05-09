@@ -1,9 +1,9 @@
-# Kotlin kaynakları
+# Kotlin Kaynakları
 
 # 1 - Kotlin Notes for Professionals Book
 
 Bu kitapte yer alan üniteler:
-Getting started with Kotlin
+\n Getting started with Kotlin
 Basics of Kotlin
 Strings
 Arrays
