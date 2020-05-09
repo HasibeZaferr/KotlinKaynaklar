@@ -3,7 +3,7 @@
 # 1 - Kotlin Notes for Professionals Book
 
 Bu kitapte yer alan üniteler:
-\n Getting started with Kotlin
+</br> Getting started with Kotlin
 Basics of Kotlin
 Strings
 Arrays
