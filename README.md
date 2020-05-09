@@ -2,7 +2,7 @@
 
 # 1 - Kotlin Notes for Professionals Book
 
-## Bu kitapte yer alan üniteler:
+## Üniteler
 * Getting started with Kotlin 
 * Basics of Kotlin
 * Strings
